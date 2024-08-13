@@ -1,5 +1,5 @@
 1 - Faça um programa que descubra qual é o animal, por meio de perguntas e respostas. Exemplo: É mamífero? Sim
-É quadrúpede? Sim
+É quadrúpede? Sim //*
 É carnívoro? Não
 É herbívoro? Sim
 Então o animal escolhido é o cavalo
